@@ -1,0 +1,10 @@
+# List of excluded files
+
+# Do not track the results
+
+*.data
+*.log
+*.vol
+*.sdf
+*.fl
+*.gsd
